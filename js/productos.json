@@ -1,0 +1,132 @@
+[
+    {
+        "id": "televisor 01",
+        "titulo": "Televisor 01",
+        "imagen": "./img/televisor.webp",
+        "categoria": {
+            "nombre": "Televisores",
+            "id": "televisores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "televisor 02",
+        "titulo": "Televisor 02",
+        "imagen": "./img/televisor.webp",
+        "categoria": {
+            "nombre": "Televisores",
+            "id": "televisores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "celular 01",
+        "titulo": "Celular 01",
+        "imagen": "./img/celular.webp",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 500
+    },
+    {
+        "id": "celular 02",
+        "titulo": "Celular 02",
+        "imagen": "./img/celular.webp",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 500
+    },
+    {
+        "id": "parlante 01",
+        "titulo": "Parlante 01",
+        "imagen": "./img/parlantes.webp",
+        "categoria": {
+            "nombre": "Parlantes",
+            "id": "parlantes"
+        },
+        "precio": 300
+    },
+    {
+        "id": "parlante 02",
+        "titulo": "Parlante 02",
+        "imagen": "./img/parlantes.webp",
+        "categoria": {
+            "nombre": "Parlantes",
+            "id": "parlantes"
+        },
+        "precio": 300
+    },
+    {
+        "id": "aire 01",
+        "titulo": "Aire 01",
+        "imagen": "./img/aire.webp",
+        "categoria": {
+           "nombre": "Aires",
+           "id": "aires"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "sillon 01",
+        "titulo": "Sillon 01",
+        "imagen": "./img/sillon.webp",
+        "categoria": {
+            "nombre": "Sillones",
+            "id": "sillones"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "sillon 02",
+        "titulo": "Sillon 02",
+        "imagen": "./img/sillon.webp",
+        "categoria": {
+            "nombre": "Sillones",
+            "id": "sillones"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "sillon 03",
+        "titulo": "Sillon 03",
+        "imagen": "./img/sillon.webp",
+        "categoria": {
+            "nombre": "Sillones",
+            "id": "sillones"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "auricular 01",
+        "titulo": "Auricular 01",
+        "imagen": "./img/auricular.webp",
+        "categoria": {
+            "nombre": "Auriculares",
+            "id": "auriculares"
+        },
+        "precio": 100
+    },
+    {
+        "id": "auricular 2",
+        "itulo": "Auricular 02",
+        "imagen": "./img/auricular.webp",
+        "categoria": {
+           "nombre": "Auriculares",
+           "id": "auriculares"
+        },
+        "precio": 100
+    },
+    {
+        "id": "auricular 03",
+        "titulo": "Auricular 03",
+        "imagen": "./img/auricular.webp",
+        "categoria": {
+           "nombre": "Auriculares",
+           "id": "auriculares"
+        },
+        "precio": 100
+    }
+]
